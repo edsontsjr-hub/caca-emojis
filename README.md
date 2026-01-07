@@ -1,11 +1,21 @@
-<div align="center">
+# O Reino Mágico da Maria 🏰👸
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Um jogo de "Encontre o Intruso" feito com muito carinho de pai para filha, utilizando Inteligência Artificial para gerar desafios infinitos.
 
-  <h1>Built with AI Studio</h2>
+## Sobre o Projeto
+Este é um **Progressive Web App (PWA)**, o que significa que pode ser instalado no Android e iOS diretamente pelo navegador, funcionando como um aplicativo nativo em tela cheia.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Funcionalidades
+- **Geração de Níveis com IA:** Usa o Google Gemini para criar desafios de emojis baseados em padrões.
+- **Modo Criação:** A criança (ou o pai) pode criar desafios personalizados.
+- **Feedback Sonoro e Visual:** Efeitos mágicos, confetes e sons divertidos.
+- **Design de Princesa:** Interface temática criada especificamente para a Maria.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Como Rodar
+Basta abrir o `index.html` em um servidor local ou hospedar em serviços como Vercel/Netlify.
 
-</div>
+## Tecnologias
+- React (via ESM)
+- Tailwind CSS
+- Google Gemini API
+- Web Audio API para sons
